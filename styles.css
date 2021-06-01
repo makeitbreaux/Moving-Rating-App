@@ -1,0 +1,25 @@
+.header {
+    text-align: center;
+    padding: 10px;
+}
+
+.form-control {
+    margin: 10px;
+}
+
+.btn {
+    max-width: 200px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.background {
+    background-color:darkgrey;
+}
+
+.form-group {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
